@@ -1,0 +1,5 @@
+python .\start.py -e binanceus -t 1h
+
+python .\start.py -e binanceus -t 1d
+
+python .\start.py -e binanceus -t 1w
