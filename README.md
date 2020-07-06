@@ -1,0 +1,2 @@
+# bnsig
+bnsig is a Buy Sell signal generator for binanceus exchange. The TA algorithms are independent of exchange. For a python coder, the code and packages are self-explanatory. However, if you have any questions, please feel free to reach me.  Note: I am a single disabled Indian facing discrimination and housing crisis in Silicon Valley, California, USA. Therefore, I can only update the repository comments, documentation and usage manual only after I reach a safe place, most probably out of USA.
